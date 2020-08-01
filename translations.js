@@ -1,4 +1,4 @@
-/*
+/* ("KO")
 EXPLANATION ON AMBIGUOUS PHRASES:
 all: Button to show ALL content, rather than filtered content.
 capabilities: Refers to the capabilities of each dino (flyers capabilies to carry other creatures, capability to damage wood/stone/etc)
